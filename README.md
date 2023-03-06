@@ -4,10 +4,11 @@
 #### How to use
 
     - Grab the binaries from the release page
-    - run as admin (Really important or else it won't work)
-    - Change both the GUID and computer name
+    - run as admin 
+    - Change Mac Address ,Drive ID , Computer Name ,  GUID 
     - Reboot
     - Create a new account on plutonium
-    - Profit
-    
+    - There you goo
+it's best to create a another local user and run the plutonium launcheur from it if it worked then you can play from the normal windows user account
 # Image Of The App
+![image](https://user-images.githubusercontent.com/64046097/223204303-05b615d9-b9bd-4867-8d8b-cc814363d199.png)
