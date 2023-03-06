@@ -48,7 +48,7 @@ namespace Plutonium_Ban_Bypass
             string drive_id = $"{ gd.ToString().Split('-')[3]}-{gd2.ToString().Split('-')[3]}";
             Process pr = new Process();
             pr.StartInfo.WindowStyle = ProcessWindowStyle.Hidden;
-            pr.StartInfo.FileName = @"exes\Volumeid.exe";
+            pr.StartInfo.FileName = @"../../res/exes\Volumeid.exe";
             pr.StartInfo.Arguments = $"C: {drive_id}";
             pr.StartInfo.UseShellExecute = false;
             pr.StartInfo.CreateNoWindow = true;
