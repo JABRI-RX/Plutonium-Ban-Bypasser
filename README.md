@@ -9,6 +9,6 @@
     - Reboot
     - Create a new account on plutonium
     - There you goo
-it's best to create a another local user and run the plutonium launcheur from it if it worked then you can play from the normal windows user account
+it's best to create a another local user and run the plutonium launcher from it if it worked then you can play from the normal windows user account
 # Image Of The App
 ![image](https://user-images.githubusercontent.com/64046097/223204303-05b615d9-b9bd-4867-8d8b-cc814363d199.png)
