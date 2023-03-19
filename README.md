@@ -1,6 +1,6 @@
 # Plutonium-Ban-Bypasser
 ## A C# GUI App to remove you current ban  from Plutonium!
-
+# update : OUTDATED but still works
 #### How to use
 
     - Grab the binaries from the release page
